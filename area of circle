@@ -1,0 +1,5 @@
+import math
+print ("we are going to calculate the area of a circle");
+radius=float(input("enter the radius of circle"));
+area= math.pi*radius**2;
+print("the are of circle is ",area)
